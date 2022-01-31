@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\vuasa\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\vuasa\\.nuget\\packages"
+    ]
+  }
+}
